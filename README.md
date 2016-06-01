@@ -10,5 +10,9 @@
 - 三个tableview共用1个headerView,通过监听tableview的scroll delegate来控制headerview的显示位置；
 - 详细的请看代码。
 
+# 参考
+http://www.jianshu.com/p/5ef0d579aea3
+https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/index.html
+
 #PS 
 有问题请发邮件或issue！！！感谢
